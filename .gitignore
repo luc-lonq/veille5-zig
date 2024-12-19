@@ -1,6 +1,6 @@
 # Ignore build artifacts
 zig-out/
-zig-cache/
+.zig-cache/
 
 # Ignore JetBrains IDE directories
 .idea/
