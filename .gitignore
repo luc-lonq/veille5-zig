@@ -1,0 +1,15 @@
+# Ignore build artifacts
+zig-out/
+zig-cache/
+
+# Ignore JetBrains IDE directories
+.idea/
+
+# Ignore other common files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+.DS_Store
+Thumbs.db
